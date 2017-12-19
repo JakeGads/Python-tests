@@ -92,3 +92,93 @@ print("Hello  %s" % o)
 name = "John"
 age = 23
 print("%s is %d years old." % (name, age))
+
+astring = "Hello world!"
+print(astring[::-1])  # will print a string backwords becuase of all of the pratical applications of that
+
+astring = "Hello world!"
+print(astring.upper())  # sets all letters to UPPERCASE
+print(astring.lower())  # sets all letters to lowercase
+
+afewwords = astring.split(" ") #split up the  words to read indivudal notations
+print(afewwords)
+print(afewwords[0]) # prints the nth letter in the array
+
+print("")
+print("")
+print("")
+print("")
+#booleans
+x = 3
+print(x == 2) #will be false
+print(x == 3) #will be true
+print(x < 3)
+print("")
+print("")
+print("")
+print("")
+
+name = "Jake Gadaleta"
+age = 19
+if name == "Jake Gadaleta" and age == 19:
+    print("your name is %s and your age is %d" % (name, age))
+if x == 3:
+    print(x)
+print("")
+print("")
+print("")
+print("")
+
+# how to check lists
+name = "Jacob"
+if name in ["John", "Jacob", "Jinkkimhere", "Smith"]:
+    print("are you the John Jacoob Jinkimhemere Smith")
+    print("cause his name is my name too")
+
+x = [1,2,3]
+y = [1,2,3]
+print(x == y) # Prints out True
+print(x is y) # Prints out False
+print(x is x) # Prints out True
+
+print("")
+print("")
+print("")
+print("")
+
+number = 20
+second_number = 10
+first_array = [1,2,3]
+second_array = [1,2,3]
+
+if number > 15:
+    print("1")
+
+if first_array == second_array:
+    print("2")
+
+if len(second_array) == 3:
+    print("3")
+
+if len(first_array) + len(second_array) == 4:       #len() is length measurment
+    print("4")
+
+if first_array and first_array[0] == 1:             #When set like this an array will only read the firs vaule
+    print("5")
+
+if not second_number == 1:
+    print("6")
+
+print("")
+print("")
+print("")
+print("")
+
+#loops
+primes = [2, 3, 5, 7, 10, 6]
+for prime in primes:
+    print(prime)
+
+primes = 
+for prime in primes:
+    print(prime)
