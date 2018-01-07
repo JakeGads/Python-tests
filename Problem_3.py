@@ -30,5 +30,3 @@ def main():
         print(fibonnaci[k:w])
         c += 1
 
-
-main()

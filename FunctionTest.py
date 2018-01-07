@@ -51,3 +51,11 @@ if run == 1:
     print()
     print()
     print()
+
+run = int(input("Do you want to run Problem 4.py (0 for no, 1 for yes)    "))
+if run == 1:
+    import Problem_4
+    Problem_4.main()
+    print()
+    print()
+    print()

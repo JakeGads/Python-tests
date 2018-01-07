@@ -1,6 +1,8 @@
-
-#Problem 1
-#Write three functions that compute the sum of the numbers in a given list using a for-loop, a while-loop, and recursion.
+"""
+Problem 1
+Write three functions that compute the sum of the numbers in a given list
+using a for-loop, a while-loop, and recursion.
+"""
 
 def main():
     aList = [1, 2, 3, 9, 25]
