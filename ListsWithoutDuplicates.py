@@ -11,24 +11,38 @@ from random import *
 def main():
     i = 0
     a = []
-    while i < 10:
+
+    while i < 30:
         j = randint(1, 10)
         a.append(j)
         i += 1
+
+    a.sort()
     print(a)
     def Constrution():
         b = []
         i = 0
         k = 0
         while i < len(a):
-            while k < len(a):
-                j = a[i]
-                g = a[k]
-                if j == g:
-                    b.append(g)
+            j = a[i]
+            if len(a) > i + 1:
+                k = a[i + 1]
+            else:
+                k = 0
+            if j == k:
+                b.append(k)
+            i += 1
+        i = 0
+        k = 0
+        while i < len(a):
+            while k < len(b):
+                if b[k] == a[i]:
+                    a.pop(i)
                 k += 1
+            k = 0
             i += 1
         print(b)
+        print(a)
     def Set():
         b = set(a)
         print(b)
