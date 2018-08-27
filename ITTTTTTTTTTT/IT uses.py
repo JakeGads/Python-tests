@@ -3,6 +3,7 @@ import uuid
 import re
 import platform
 
+# this is a test of in built git systems
 def writer(text):
     log = open("ITLog.txt", "a+")
     print(text)
