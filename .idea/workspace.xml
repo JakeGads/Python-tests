@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa7c207f-4eeb-4142-be93-f934a4cd087d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/Delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/namePull.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITTTTTTTTTTT/IT uses.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITTTTTTTTTTT/IT uses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITTTTTTTTTTT/ITLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ITTTTTTTTTTT/ITLog.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,17 +78,63 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2072303533">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bat" value="66" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/IT uses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="204">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/Delete.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/namePull.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,7 +147,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/network_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="289">
               <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
             </state>
           </provider>
@@ -148,6 +195,8 @@
         <option value="$PROJECT_DIR$/Team number Checker.py" />
         <option value="$PROJECT_DIR$/ITTTTTTTTTTT/network_info.py" />
         <option value="$PROJECT_DIR$/ITTTTTTTTTTT/IT uses.py" />
+        <option value="$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/Delete.py" />
+        <option value="$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/namePull.bat" />
       </list>
     </option>
   </component>
@@ -193,6 +242,12 @@
               <item name="Python-tests" type="462c0819:PsiDirectoryNode" />
               <item name="ITTTTTTTTTTT" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="ITTTTTTTTTTT" type="462c0819:PsiDirectoryNode" />
+              <item name="User_Deleter(DeSalesEd)" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -216,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IT uses">
+  <component name="RunManager" selected="Python.Unnamed">
     <configuration name="IT uses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,6 +327,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Team number Checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jg9902\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,6 +420,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.UserFibinacia" />
       <item itemvalue="Python.ListsWithoutDuplicates" />
@@ -375,10 +452,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17958516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17912553" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,7 +469,7 @@
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.49791667" weight="0.29704985" />
-      <window_info active="true" anchor="bottom" auto_hide="true" id="Run" order="11" sideWeight="0.49479166" visible="true" weight="0.26464435" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="11" sideWeight="0.49479166" weight="0.26415095" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -512,28 +589,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/ITLog.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/network_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GUI Tester.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/IT uses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="204">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/ITLog.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/network_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/namePull.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ITTTTTTTTTTT/User_Deleter(DeSalesEd)/Delete.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
